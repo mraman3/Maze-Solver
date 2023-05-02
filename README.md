@@ -8,6 +8,7 @@ X = A Wall
 S = Start Point 
 E = Exit of Maze
 Blank Space = Possible Path 
+* = The solved path
 
 After finding a path to the exit it will output a soultion path indicating the dirrections in a N/S/E/W format 
 

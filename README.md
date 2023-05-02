@@ -18,36 +18,5 @@ Y-Length+TAB+X-length
 
 12  11
 
----------- Sample Output -------------
-Enter maze filename: maze1.txt
-Start at 1,1.
-File transcription complete!
+![image](https://user-images.githubusercontent.com/50944372/235743672-596b3243-9f92-4f08-ba3f-fb8da215e5ab.png)
 
-Initial State:
-XXXXXXXXXXX
-XS        X
-XXXXX XXXXX
-X   X X   X
-XXX     XXX
-X XXX XXX X
-X   X X   X
-X   X X   X
-X X X X X X
-X X     X X
-X  XX XXE X
-XXXXXXXXXXX
-
-Final Maze:
-XXXXXXXXXXX
-X#****    X
-XXXXX*XXXXX
-X   X*X   X
-XXX  *  XXX
-X XXX*XXX X
-X   X*X** X
-X   X*X***X
-X X X*X*X*X
-X X  ***X*X
-X  XX XXO*X
-XXXXXXXXXXX
-Solution Path: E, E, E, E, S, S, S, S, S, S, S, S, E, E, N, N, E, N, W, 
